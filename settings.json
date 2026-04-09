@@ -6,21 +6,21 @@
       "key": "DBD-HHGDF-USTWQ",
       "status": "Maintenance",
       "subscription": "5d16h24m56s",
-      "icon": "https://raw.githubusercontent.com/ImNotWraith/test/main/assets/dbd.png"
+      "icon": "https://media.discordapp.net/attachments/1491767526634422336/1491767641793101904/dbd.png?ex=69d8e461&is=69d792e1&hm=99390e9e98d9b45d768838ab914f51e5eeafa6be6ab2db161a474eee93bdb0bf&=&format=webp&quality=lossless"
     },
     {
       "name": "Rust",
       "key": "Beta Test Key",
       "status": "offline",
       "subscription": "infinite",
-      "icon": "https://raw.githubusercontent.com/ImNotWraith/test/main/assets/rust.png"
+      "icon": "https://media.discordapp.net/attachments/1491767526634422336/1491767642766180563/rust.png?ex=69d8e461&is=69d792e1&hm=79130815b61f1cd6a5c46ee3ac53d4c1080b88f18b0ba127bef82da9ff207c6d&=&format=webp&quality=lossless"
     },
     {
       "name": "Minecraft",
       "key": "Minecraft-XXXX-YYYY-ZZZZ",
       "status": "Online",
       "subscription": "infinite",
-      "icon": "https://raw.githubusercontent.com/ImNotWraith/test/main/assets/minecraft.png"
+      "icon": "https://media.discordapp.net/attachments/1491767526634422336/1491767642434834594/minecraft.png?ex=69d8e461&is=69d792e1&hm=3d9d117bf6d0ecfe76edf6487b5f6e8cf44a8a1c5bfec416754107ea7cbc89ba&=&format=webp&quality=lossless"
     }
   ]
 }
