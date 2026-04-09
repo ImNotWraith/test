@@ -6,21 +6,21 @@
       "key": "DBD-HHGDF-USTWQ",
       "status": "Maintenance",
       "subscription": "5d16h24m56s",
-      "icon": "assets/dbd.png"
+      "icon": "https://raw.githubusercontent.com/ImNotWraith/test/main/assets/dbd.png"
     },
     {
       "name": "Rust",
       "key": "Beta Test Key",
       "status": "offline",
       "subscription": "infinite",
-      "icon": "assets/rust.png"
+      "icon": "https://raw.githubusercontent.com/ImNotWraith/test/main/assets/rust.png"
     },
     {
       "name": "Minecraft",
       "key": "Minecraft-XXXX-YYYY-ZZZZ",
       "status": "Online",
       "subscription": "infinite",
-      "icon": "assets/minecraft.png"
+      "icon": "https://raw.githubusercontent.com/ImNotWraith/test/main/assets/minecraft.png"
     }
   ]
 }
