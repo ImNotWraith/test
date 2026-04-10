@@ -1,5 +1,7 @@
 {
-  "version": "1.0.0",
-  "download_url": "https://github.com/ImNotWraith/test/releases/download/updated/Loader.exe",
-  "changelog": "Initial release with auto-update support"
+  "version": "3.0.0",
+  "changelog": "v3.0.0 - Complete rewrite\n- Removed white backgrounds\n- Added transparent UI\n- Improved dark theme\n- Fixed connection issues\n- Better error handling",
+  "download_url": "https://raw.githubusercontent.com/ImNotWraith/test/refs/heads/main/main.py",
+  "min_version": "1.0.0",
+  "release_date": "2026-04-10"
 }
