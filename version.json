@@ -1,1 +1,5 @@
-
+{
+  "version": "1.0.0",
+  "download_url": "https://github.com/ImNotWraith/test/releases/download/v1.0.0/loader.exe",
+  "changelog": "Initial release with auto-update support"
+}
