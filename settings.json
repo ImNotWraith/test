@@ -5,20 +5,20 @@
       "name": "Dead By Daylight",
       "key": "DBD-HHGDF-USTWQ",
       "status": "Maintenance",
-      "subscription": "5d16h24m56s",
+      "subscription": "infinite",
       "icon": "https://media.discordapp.net/attachments/1491767526634422336/1491767641793101904/dbd.png"
     },
     {
       "name": "Rust",
       "key": "Beta Test Key",
-      "status": "offline",
+      "status": "Offline",
       "subscription": "infinite",
       "icon": "https://media.discordapp.net/attachments/1491767526634422336/1491767642766180563/rust.png"
     },
     {
       "name": "Minecraft",
       "key": "Minecraft-XXXX-YYYY-ZZZZ",
-      "status": "Online",
+      "status": "Offline",
       "subscription": "infinite",
       "icon": "https://media.discordapp.net/attachments/1491767526634422336/1491767642434834594/minecraft.png"
     }
