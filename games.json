@@ -3,21 +3,18 @@
   "games": [
     {
       "name": "Dead By Daylight",
-      "key_required": true,
       "status": "Online",
       "subscription": "Lifetime",
       "icon": "https://cdn.discordapp.com/attachments/1491767526634422336/1491767641793101904/dbd.png?ex=69d98d21&is=69d83ba1&hm=a8b4c060b708fd348125f18d93e51a8ba158adbc9e43b26d48bc475dd80316ce&"
     },
     {
       "name": "Rust",
-      "key_required": false,
       "status": "Online",
       "subscription": "Lifetime",
       "icon": "https://media.discordapp.net/attachments/1491767526634422336/1491767642766180563/rust.png?ex=69d98d21&is=69d83ba1&hm=ae8b271398c03704166f142b639c80bb4a8b4900d32fe0208fae3ee4f4412c1e&=&format=webp&quality=lossless"
     },
     {
       "name": "Minecraft",
-      "key_required": false,
       "status": "Maintenance",
       "subscription": "Lifetime",
       "icon": "https://media.discordapp.net/attachments/1491767526634422336/1491767642434834594/minecraft.png?ex=69d98d21&is=69d83ba1&hm=3a1f76d6228130a47bb251f0a1661f1befff53234edc223a6f1c67f1d4d9261b&=&format=webp&quality=lossless"
