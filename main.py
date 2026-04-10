@@ -420,7 +420,7 @@ class TitleBar(QFrame):
         logo_text.setFont(QFont("Segoe UI", 9, QFont.Bold))
         logo_text.setStyleSheet("color: #d1d5db; letter-spacing: 1px;")
         
-        version_badge = QLabel("v3.0")
+        version_badge = QLabel("Lite")
         version_badge.setFont(QFont("Segoe UI", 7))
         version_badge.setStyleSheet("background: #2a2a2a; color: #9ca3af; padding: 2px 6px; border-radius: 8px;")
         
