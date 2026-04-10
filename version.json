@@ -1,6 +1,6 @@
 {
-  "version": "3.5.0",
-  "changelog": "v3.5.0 - Complete rewrite\n- Removed white backgrounds\n- Added transparent UI\n- Improved dark theme\n- Fixed connection issues\n- Better error handling",
+  "version": "1.0.1",
+  "changelog": "v1.0.1 - Complete rewrite\n- Removed white backgrounds\n- Added transparent UI\n- Improved dark theme\n- Fixed connection issues\n- Better error handling",
   "download_url": "https://raw.githubusercontent.com/ImNotWraith/test/refs/heads/main/main.py",
   "min_version": "1.0.0",
   "release_date": "2026-04-10"
