@@ -3,21 +3,21 @@
   "games": [
     {
       "name": "Dead By Daylight",
-      "key": "DBD-HHGDF-USTWQ",
+      "key_required": true,
       "status": "Maintenance",
       "subscription": "infinite",
       "icon": "https://media.discordapp.net/attachments/1491767526634422336/1491767641793101904/dbd.png"
     },
     {
       "name": "Rust",
-      "key": "Beta Test Key",
+      "key_required": false,
       "status": "Offline",
       "subscription": "infinite",
       "icon": "https://media.discordapp.net/attachments/1491767526634422336/1491767642766180563/rust.png"
     },
     {
       "name": "Minecraft",
-      "key": "Minecraft-XXXX-YYYY-ZZZZ",
+      "key_required": false,
       "status": "Offline",
       "subscription": "infinite",
       "icon": "https://media.discordapp.net/attachments/1491767526634422336/1491767642434834594/minecraft.png"
