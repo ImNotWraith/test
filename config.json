@@ -1,0 +1,11 @@
+{
+  "maintenance": false,
+  "maintenance_message": "We'll be back shortly.",
+  "announcement": "",
+  "features": {
+    "beta_tools": true,
+    "experimental_ui": false,
+    "telemetry": false
+  },
+  "min_version": "1.0.0"
+}
